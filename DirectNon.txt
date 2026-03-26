@@ -364,7 +364,6 @@ ftp.kr.freebsd.org
 dl.flathub.org
 f-droid.org
 cloudflare.f-droid.org
-+.archive.org
 httpd-mirror.sergal.org
 ftp-osl.osuosl.org
 ftp-nyc.osuosl.org
@@ -677,7 +676,6 @@ mirrors.cat.net
 mirror.cat.net
 releases.arc.net
 mirror.internode.on.net
-+.catbox.moe
 ruleset.skk.moe
 speedtest-net-servers.cdn.skk.moe
 chnroutes2.cdn.skk.moe
@@ -1420,7 +1418,6 @@ cdn.azul.com
 dlcdnets.asus.com
 +.files.1drv.com
 oss.ypt.com
-+.cdn.ubi.com
 mirror.one.com
 gog-cdn-fastly-cp77.gog.com
 gog-cdn-fastly.gog.com
@@ -1795,7 +1792,6 @@ dl.iina.io
 dl.min.io
 +.k8s.io
 npm.jsr.io
-+.gcr.io
 mirror.bom2.albony.in
 mirror.del.albony.in
 mirror.bom.albony.in
